@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "I'll Never Stop",
+  "base_artist": "*NSYNC",
+  "createdAt": "2026-02-19T14:42:38.757969Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I'll Never Stop",
+      "artist": "*NSYNC",
+      "has_synced": true,
+      "path": "select/01_I'll_Never_Stop_NSYNC.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "I'll Never Stop Loving You",
+      "artist": "Britney Spears",
+      "has_synced": true,
+      "path": "select/02_I'll_Never_Stop_Loving_You_Britney_Spears.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "I'll Never Stop Loving You",
+      "artist": "Cher",
+      "has_synced": true,
+      "path": "select/03_I'll_Never_Stop_Loving_You_Cher.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I'll Never Stop Loving You",
+      "artist": "Nancy Wilson",
+      "has_synced": false,
+      "path": "select/04_I'll_Never_Stop_Loving_You_Nancy_Wilson.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I'll Never Stop Loving You",
+      "artist": "Yazmin Lacey",
+      "has_synced": true,
+      "path": "select/05_I'll_Never_Stop_Loving_You_Yazmin_Lacey.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Ill Never Stop Loving You",
+      "artist": "Cher",
+      "has_synced": true,
+      "path": "select/06_Ill_Never_Stop_Loving_You_Cher.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "I'll Never Stop Loving You",
+      "artist": "Doris Day",
+      "has_synced": false,
+      "path": "select/07_I'll_Never_Stop_Loving_You_Doris_Day.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "I'll Never Stop Loving You",
+      "artist": "Gary Morris",
+      "has_synced": false,
+      "path": "select/08_I'll_Never_Stop_Loving_You_Gary_Morris.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I'll Never Stop (Radio Edit)",
+      "artist": "*NSYNC",
+      "has_synced": true,
+      "path": "select/09_I'll_Never_Stop_(Radio_Edit)_NSYNC.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I'll Never Stop [Radio Edit]",
+      "artist": "*NSYNC",
+      "has_synced": true,
+      "path": "select/10_I'll_Never_Stop_[Radio_Edit]_NSYNC.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I'll Never Stop Loving You",
+      "artist": "Britney Spears",
+      "has_synced": true,
+      "path": "select/11_I'll_Never_Stop_Loving_You_Britney_Spears.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I'll Never Stop Loving You",
+      "artist": "Dinah Washington",
+      "has_synced": false,
+      "path": "select/12_I'll_Never_Stop_Loving_You_Dinah_Washington.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I'll Never Stop Loving You - 2009 Remaster",
+      "artist": "Britney Spears",
+      "has_synced": true,
+      "path": "select/13_I'll_Never_Stop_Loving_You_-_2009_Remaster_Britney_Spears.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "I'll Never Stop Loving You (2009 Remaster)",
+      "artist": "Britney Spears",
+      "has_synced": true,
+      "path": "select/14_I'll_Never_Stop_Loving_You_(2009_Remaster)_Britney_Spears.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "I'll Never Stop Loving You",
+      "artist": "J'son",
+      "has_synced": false,
+      "path": "select/15_I'll_Never_Stop_Loving_You_J'son.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "I'll Never Stop",
+      "artist": "*NSYNC",
+      "has_synced": false,
+      "path": "select/pl_01_I'll_Never_Stop_NSYNC.txt"
+    }
+  ]
+}
